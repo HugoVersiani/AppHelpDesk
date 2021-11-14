@@ -29,7 +29,7 @@
         <div class="card-login">
           <div class="card">
             <div class="card-header">
-              Login
+              Log-in
             </div>
             <div class="card-body">
               <form>
